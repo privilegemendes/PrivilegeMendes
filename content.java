@@ -1,5 +1,5 @@
-public class Cleycs {
+public class Cmwrgk {
     public static void main() {
-        System.out.println("qycim");
+        System.out.println("xwmwt");
     }
 }
