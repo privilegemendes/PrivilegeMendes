@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrivilegeMendes
-- 👀 I’m interested in Full stack development with AWS integration
+- 👀 I’m interested in Product Development using Cloud Computing and Machine Learning.
 - 🌱 I’m currently learning full stack web development with Javascript and React.
 - 💞️ I’m looking to collaborate on AWS hosting integration
 - 📫 How to reach me: mendesprivilege@gmail.com
