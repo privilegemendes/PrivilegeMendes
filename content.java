@@ -3,6 +3,5 @@ public class Cmwrgk {
         System.out.println("xwmwt");
         System.out.println("wsnxr");
         System.out.println("lvknj");
-        System.out.println("khxxy");
     }
 }
