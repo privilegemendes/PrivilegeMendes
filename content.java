@@ -12,6 +12,6 @@ public class Cmwrgk {
         System.out.println("djqdk");
         System.out.println("nctoa");
         System.out.println("brope");
-        System.out.println("sddua");
+        System.out.println("sowag");
     }
 }
