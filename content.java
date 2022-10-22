@@ -1,5 +1,5 @@
-public class Cubxar {
+public class Cppfax {
     public static void main() {
-        System.out.println("yeihx");
+        System.out.println("nsbvj");
     }
 }
