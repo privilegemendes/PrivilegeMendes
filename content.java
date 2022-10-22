@@ -1,5 +1,5 @@
-public class Cctntv {
+public class Ckcpkb {
     public static void main() {
-        System.out.println("dnkeq");
+        System.out.println("sywqo");
     }
 }
