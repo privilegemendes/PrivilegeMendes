@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PrivilegeMendes
-- 👀 I’m interested in Product Development using Cloud Computing and Machine Learning.
-- 🌱 I’m currently learning full stack web development with Javascript and React.
-- 💞️ I’m looking to collaborate on AWS hosting integration
-- 📫 How to reach me: mendesprivilege@gmail.com
+- 👀 My interests are in fullstack development.
+- 🌱 I’m a full stack web developer with Typescript and React.
+- 📫 How to reach me: privilegemendes@gmail.com
 
 <!---
 PrivilegeMendes/PrivilegeMendes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
