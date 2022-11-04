@@ -1,5 +1,5 @@
-public class Cppfax {
+public class Cnjqko {
     public static void main() {
-        System.out.println("nsbvj");
+        System.out.println("twcwj");
     }
 }
