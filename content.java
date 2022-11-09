@@ -1,5 +1,5 @@
-public class Clsjkf {
+public class Csybly {
     public static void main() {
-        System.out.println("edart");
+        System.out.println("fvohj");
     }
 }
