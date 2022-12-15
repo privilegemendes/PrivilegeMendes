@@ -1,5 +1,5 @@
-public class Cofule {
+public class Ckqgmb {
     public static void main() {
-        System.out.println("jxjjw");
+        System.out.println("erqjg");
     }
 }
