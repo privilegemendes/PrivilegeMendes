@@ -1,5 +1,5 @@
-public class Ctgrvq {
+public class Cebgtt {
     public static void main() {
-        System.out.println("xjxpg");
+        System.out.println("fwuiv");
     }
 }
