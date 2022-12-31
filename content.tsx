@@ -1,3 +1,3 @@
 console.log("msegl")
 console.log("etekk")
-console.log("yjayq")
+console.log("yatnk")
