@@ -1,5 +1,5 @@
-public class Cpiiaw {
+public class Cokqgw {
     public static void main() {
-        System.out.println("pftub");
+        System.out.println("enllv");
     }
 }
