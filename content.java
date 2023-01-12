@@ -1,5 +1,5 @@
-public class Cpgneg {
+public class Cpiiaw {
     public static void main() {
-        System.out.println("vmvwj");
+        System.out.println("pftub");
     }
 }
