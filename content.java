@@ -1,5 +1,5 @@
-public class Chtrdi {
+public class Cmxmoq {
     public static void main() {
-        System.out.println("qkkmy");
+        System.out.println("ohruj");
     }
 }
