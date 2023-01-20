@@ -1,5 +1,5 @@
-public class Culgul {
+public class Cxfilr {
     public static void main() {
-        System.out.println("vnlrf");
+        System.out.println("gmrpx");
     }
 }
