@@ -1,5 +1,5 @@
-public class Cxfilr {
+public class Cscown {
     public static void main() {
-        System.out.println("gmrpx");
+        System.out.println("pnixa");
     }
 }
