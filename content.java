@@ -1,5 +1,5 @@
-public class Cmxmoq {
+public class Csurrh {
     public static void main() {
-        System.out.println("ohruj");
+        System.out.println("gqoka");
     }
 }
