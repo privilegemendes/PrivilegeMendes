@@ -1,5 +1,5 @@
-public class Crecfk {
+public class Cctntv {
     public static void main() {
-        System.out.println("pvxdt");
+        System.out.println("dnkeq");
     }
 }
