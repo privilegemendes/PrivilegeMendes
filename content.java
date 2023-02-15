@@ -1,5 +1,5 @@
-public class Cscown {
+public class Cubxar {
     public static void main() {
-        System.out.println("pnixa");
+        System.out.println("yeihx");
     }
 }
