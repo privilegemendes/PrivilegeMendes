@@ -9,24 +9,20 @@
 - [ ] Explore AI art and integrate AI artists in [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
 - [ ] Create a Collaborative Filtering Algorithm using Python
 - [ ] Improve my CSS and React Spring skills
-- [ ] Create 1 article each month
-- [ ] Build a blogging site integrating Notion and NextJs
+- [x] Build a blogging site integrating Notion and NextJs [lege.dev](https://lege.dev)
 - [x] Try out NextJs
 - [ ] Learn Italian A2/B1
+- [ ] Contribute to Open source projects
 - [ ] Try out Angular
 - [x] Try out Three.js
-- [ ] Deploy mini dev tools
 - [x] Migrate my Git from GitLab to GitHub
 
 ## 2022
 - [x] Learn Italian A1
 - [x] Try out Bachata
 - [x] Try out GraphQL
+- [ ] Create a Collaborative Filtering Algorithm using Python
 - [x] Use Prisma ORM in one project
-- [ ] Improve my CRUD example
-- [x] Contribute to Open source projects
-- [ ] Create a NFT example project
-- [x] try new css libs/frameworks tailwind, radix-ui, stitches, emotion
 - [x] Introduction and using Google Cloud
 - [x] Typescript + React
 
