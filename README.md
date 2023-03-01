@@ -14,7 +14,7 @@
 - [ ] Learn Italian A2/B1
 - [ ] Contribute to Open source projects
 - [ ] Try out Angular
-- [x] Try out Three.js
+- [x] Try out Three.js [ExplodingRoses](https://github.com/privilegemendes/ExplodingRoses)
 - [x] Migrate my Git from GitLab to GitHub
 
 ## 2022
