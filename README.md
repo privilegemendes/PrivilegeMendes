@@ -7,6 +7,7 @@
 ## 2023
 - [ ] Improve Accessibility and add WCAG 2.0 guidelinesinto [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
 - [ ] Explore AI art and integrate AI artists in [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
+- [ ] Mint NFTs for digital art
 - [ ] Create a Collaborative Filtering Algorithm using Python
 - [ ] Build a [fullstack application](https://github.com/privilegemendes/Forum)
 - [ ] Improve my CSS and React Spring skills
@@ -26,6 +27,7 @@
 - [x] Use Prisma ORM in one project
 - [x] Introduction and using Google Cloud
 - [x] Typescript + React
+- [x] Try out Solidity and Smart Contracts
 
 <br />
 
