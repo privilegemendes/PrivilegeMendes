@@ -7,6 +7,7 @@
 ## 2023
 - [ ] Improve Accessibility and add WCAG 2.0 guidelinesinto [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
 - [ ] Explore AI art and integrate AI artists in [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
+- [ ] Implement a fast paced auction house for rapid online sales
 - [ ] Mint NFTs for digital art
 - [ ] Create a Collaborative Filtering Algorithm using Python
 - [ ] Build a [fullstack application](https://github.com/privilegemendes/Forum)
