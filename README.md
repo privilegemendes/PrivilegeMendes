@@ -2,20 +2,20 @@
 
 ![privilege.png](privilege.svg)
 ### Hi I'm Privilege Mendes.. and Yes, that's my real name 👆👆
-## I'm a Frontend Developer, Co-Founder, Artist and other stuff
+## I'm a Frontend Developer and other stuff
 
 ## 2023
-- [ ] Improve Accessibility and add WCAG 2.0 guidelinesinto [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
+- [x] Improve Accessibility and add WCAG 2.0 guidelinesinto [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
 - [ ] Explore AI art and integrate AI artists in [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
 - [ ] Implement a fast paced auction house for rapid online sales
 - [ ] Mint NFTs for digital art
-- [ ] Create a Collaborative Filtering Algorithm using Python
-- [ ] Build a [fullstack application](https://github.com/privilegemendes/Forum)
-- [ ] Improve my CSS and React Spring skills
+- [x] Create a Collaborative Filtering Algorithm using Python
+- [x] Build a [fullstack application](https://github.com/privilegemendes/Forum)
+- [x] Improve my CSS and React Spring skills
 - [x] Build a blogging site integrating Notion and NextJs [lege.dev](https://lege.dev)
 - [x] Try out NextJs
 - [ ] Learn Italian A2/B1
-- [ ] Contribute to Open source projects
+- [x] Contribute to Open source projects
 - [ ] Try out Angular
 - [x] Try out Three.js [ExplodingRoses](https://github.com/privilegemendes/ExplodingRoses)
 - [x] Migrate my Git from GitLab to GitHub
