@@ -4,43 +4,36 @@
 ### Hi I'm Privilege Mendes.. and Yes, that's my real name 👆👆
 ## I'm a Frontend Developer and other stuff
 
-## 2023
-- [x] Improve Accessibility and add WCAG 2.0 guidelinesinto [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
-- [ ] Explore AI art and integrate AI artists in [Artiry](https://artiry.com?ea=U2Q2aC7d8n8Ilu9HbZ8x)
-- [ ] Implement a fast paced auction house for rapid online sales
-- [ ] Mint NFTs for digital art
-- [x] Create a Collaborative Filtering Algorithm using Python
-- [x] Build a [fullstack application](https://github.com/privilegemendes/Forum)
-- [x] Improve my CSS and React Spring skills
-- [x] Build a blogging site integrating Notion and NextJs [lege.dev](https://lege.dev)
-- [x] Try out NextJs
-- [ ] Learn Italian A2/B1
-- [x] Contribute to Open source projects
-- [ ] Try out Angular
-- [x] Try out Three.js [ExplodingRoses](https://github.com/privilegemendes/ExplodingRoses)
-- [x] Migrate my Git from GitLab to GitHub
+<div align="center">
 
-## 2022
-- [x] Learn Italian A1
-- [x] Try out Bachata
-- [x] Try out GraphQL
-- [ ] Create a Collaborative Filtering Algorithm using Python
-- [x] Use Prisma ORM in one project
-- [x] Introduction and using Google Cloud
-- [x] Typescript + React
-- [x] Try out Solidity and Smart Contracts
+  
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincenzo Panacciulli
+============================================================================================================================================
 
-<br />
+ ~~Full Stack Developer~~ A Backend Dev with some Frontend skills 😁
+--------------------
+</div>
 
-### Languages and Tools:
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/1771727/131647478-f7a5e3ea-2c15-45b6-85ed-1ecf2908c74c.png" />
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
+I started programming in 2021 with the basics of the Front End, then I attended a two‑year training course and realized that I deeply loved the Back End side. Fast forward to now, I'm studying to contribute to some cool open source projects, take cloud certifications, and for my career development.
 
+*   🌍  I'm based in Italy, but I'm a citizen of the world and I love travel and Discover.
+*   🖥️  See my portfolio at [this link](http://vip-pana.github.io/).
+*   🧠  I'm learning C#, Cloud, and Backend stuff, but I'm super curious about any technologies.
+*   🤝  I'm open to collaborating on any interesting project if you have any suggestions, please write me!
+
+<div align="center">
+
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![C#, Dotnet, Laravel Typescript, React, Node.js, Angular, Express, GraphQl, PostgreSQL, MongoDb](https://skillicons.dev/icons?i=cs,dotnet,laravel,ts,react,nodejs,angular,express,graphql,postgres,mongodb)](https://skillicons.dev)
+
+## 📲 My Contacts:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vincenzopanacciulli/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:panacciullivincenzo@gmail.com?subject=Hello%20Vincenzo,%20From%20Github)
+
+</div>
